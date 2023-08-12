@@ -31,9 +31,10 @@ body, html {
 }
 
 .link {
-    color: blue; /* Initial link color */
+    color: white; /* Initial link color */
     text-decoration: none; /* Remove underline */
     transition: color 0.3s; /* Smooth color transition */
+    font-size: 16px;
 }
 
 .link:visited {
