@@ -14,4 +14,19 @@ body, html {
     background-size: cover; /* Adjust to your preference */
     z-index: -1;
 }
+.content {
+    position: absolute;
+    top: 50%; /* Position at 50% from the top */
+    left: 50%; /* Position at 50% from the left */
+    transform: translate(-50%, -50%); /* Center the content */
+    text-align: center; /* Center-align the text */
+    color: white; /* Set the text color to white */
+}
+.content h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+.content p {
+    font-size: 1rem;
+}
 /* Add more CSS rules as needed */
