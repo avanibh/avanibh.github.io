@@ -30,15 +30,10 @@ body, html {
     font-size: 1rem;
 }
 
-.link {
-    color: white; /* Initial link color */
-    text-decoration: none; /* Remove underline */
-    transition: color 0.3s; /* Smooth color transition */
-    font-size: 16px;
-}
 .link-group {
     display: flex;
     align-items: center;
+    justify-content: center; /* Center horizontally */
     color: white;
     font-size: 16px;
 }
