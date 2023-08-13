@@ -36,7 +36,11 @@ body, html {
     transition: color 0.3s; /* Smooth color transition */
     font-size: 16px;
 }
-
+.link::before {
+    content: "\2022"; /* Unicode character for bullet point */
+    color: white; /* Bullet point color */
+    margin-right: 10px; /* Adjust spacing between bullet point and link */
+}
 .link:visited {
     color: yellow; /* Change link color after it's visited */
 }
