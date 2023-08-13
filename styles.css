@@ -64,7 +64,8 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("gif5.gif"); /* Replace with the path to your background image */
-    background-size: cover;
+    background-size: cover; /* Adjust to your preference */
+    background-image: url("gif5.gif");
+    background-position: center;
     z-index: -1;
 }
