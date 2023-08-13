@@ -69,3 +69,6 @@ body, html {
     background-position: center;
     z-index: -1;
 }
+.black-text {
+    color: black; /* Set the text color to black */
+}
