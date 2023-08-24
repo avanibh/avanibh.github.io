@@ -78,3 +78,8 @@ body, html {
     top: 20px; /* Adjust the distance from the top */
     left: 20px; /* Adjust the distance from the left */
 }
+
+.content-left {
+    text-align: left; /* Align the text to the left */
+    padding: 20px; /* Add padding to the content for spacing */
+}
