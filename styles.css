@@ -73,6 +73,11 @@ body, html {
     color: black; /* Set the text color to black */
 }
 
+.white-text {
+    color: white; /* Set the text color to black */
+}
+
+
 .top-left-text {
     position: absolute;
     top: 20px; /* Adjust the distance from the top */
