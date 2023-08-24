@@ -103,3 +103,17 @@ body, html {
     transform: translateX(-50%); /* Center horizontally */
     text-align: center; /* Center-align the text */
 }
+
+.content-bottommiddle-center {
+    text-align: bottom; /* Align the text to the left */
+    padding: 30px; /* Add padding to the content for spacing */
+}
+
+.bot-centermiddle-text {
+    position: absolute;
+    bottom: 40px; /* Adjust the distance from the bottom */
+    left: 40%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+    text-align: center; /* Center-align the text */
+}
+
