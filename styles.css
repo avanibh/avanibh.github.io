@@ -94,3 +94,12 @@ body, html {
     text-align: bottom; /* Align the text to the left */
     padding: 20px; /* Add padding to the content for spacing */
 }
+
+
+.bot-center-text {
+    position: absolute;
+    bottom: 20px; /* Adjust the distance from the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+    text-align: center; /* Center-align the text */
+}
